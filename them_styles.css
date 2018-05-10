@@ -1,0 +1,140 @@
+/*
+
+THIS MATERIAL IS TOP SECRET
+
+ESPECIALLY FOR A.B.P. ELITE FORCE RECRUITS
+
+THE PENALTY OF UNAUTHORIZED VIEWING IS DEATH!
+
+
+AND COME ON, MAN. DON'T SPOIL THE SURPRISE. ;)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+body {
+    margin: 1em 1.5em;
+    max-width: 500px;
+    font-family: 'VT323', monospace;
+    font-size: 13pt;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+h1 > span {
+    font-size: 0.7em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.hide-this {
+    display: none;
+}
+
+.overruled {
+    text-decoration: line-through;
+}
+
+.accomplished {
+    max-width: 80%;
+    border: 2px solid #a00;
+    color: #a00;
+    font-size: 1.2em;
+    text-align: center;
+    transform: translatey(-15px) rotate(-5deg);
+}
